@@ -1,0 +1,44 @@
+<html>
+<body>
+<h1>Hi Prabhas</h1>
+<p>The sun rises in the east</p>
+</body>
+</html>
+
+
+<html>
+<body>
+<hl> Hello everyone </h1>
+<a href="https://confluence.sd.apple.com"> confluencepage.link</a>
+<img src="www.applelogo" alt="sorryapple" height="100 width="120">
+<p> bulgeria,serbia,iceland,dubai </p>
+<button onclick="alret(hello!)"> submit</button>
+</body>
+</html>
+
+
+Backgorund= Bluecolor Headline=lightblue and para=yellow color use inline CSS 
+
+<html>
+<body>
+<h1 style="color:blue;"> This is Heading </h1>
+<p style="color:lightblue;"> This is paragraph</p>
+</body>
+<html>
+S
+
+<html>
+<head>
+<style>
+body {background-color:blue;}
+h1 {color:darkblue;}
+p {color:lightblue;}
+</style>
+</head>
+<body>
+<h1> This is the first heading</h1>
+<p> This is the first paragraph</p>
+<a href="https://confluence.sd.com:> Click link</a>
+<img src="www.apple.com" alt="Sorry" height="100" width="120">
+</body>
+</html>
